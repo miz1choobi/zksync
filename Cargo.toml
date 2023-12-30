@@ -54,3 +54,5 @@ members = [
 [profile.release.package.flamegraph_target]
 # We need both performance and debug info to analyze.
 debug = true
+debug = true
+
